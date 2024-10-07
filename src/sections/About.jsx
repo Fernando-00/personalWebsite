@@ -83,7 +83,9 @@ const About = () => {
                                     bring your vision to life.
                                 </p>
                             </div>
-                            <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+                            <a href="#contact">
+                                <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+                            </a>
                         </div>
 
                     </div>
